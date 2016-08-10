@@ -22,7 +22,7 @@ h3{
 	color: black;
 	text-align: center;
 }
-img{
+.scrollerimage{
 	position: relative;
     width:  400px;
     max-height: 200px;
@@ -30,6 +30,7 @@ img{
     margin-right: auto;
 
 }
+
 #tfnewsearch{
 	float:right;
 	padding:20px;
