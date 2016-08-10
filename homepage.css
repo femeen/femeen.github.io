@@ -109,3 +109,7 @@ div.img img {
 	margin-bottom: 135px;
 }
 
+#askedfor {
+	max-width: 300px;
+	max-height: 600px;
+}
