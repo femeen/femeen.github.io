@@ -106,10 +106,16 @@ div.img img {
 	font-size: 24px;
 	text-align: center;
 	margin-top: auto;
-	margin-bottom: 135px;
+}
+div.womenintheworkplace {
+	margin: 20px;
+	border: 5px;
 }
 
 #askedfor {
 	max-width: 300px;
 	max-height: 600px;
+}
+#dontpara {
+	font-size: 20px;
 }
