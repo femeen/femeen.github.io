@@ -128,4 +128,7 @@ div.womenintheworkplace {
 #statisticrape{
 	max-width: 100%
 	max-height:auto;
+    display: block;
+    margin: 0 auto;
+}
 }
