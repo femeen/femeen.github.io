@@ -99,9 +99,7 @@ div.img:hover {
 
 div.img img {
     max-width: 100%;
-
   	width: 100%;
-
     height: auto;
 }
 
@@ -111,7 +109,6 @@ div.img img {
 	text-align: center;
 	margin-top: 350px;
 }
-
 div.womenintheworkplace {
 	margin: 20px;
 	border: 5px;
