@@ -98,11 +98,10 @@ div.img:hover {
 }
 
 div.img img {
-<<<<<<< HEAD
     max-width: 100%;
-=======
+
   	width: 100%;
->>>>>>> 3781ec86835c3d6d1523e5c4822e1c27f81c2f6a
+
     height: auto;
 }
 
@@ -112,22 +111,16 @@ div.img img {
 	text-align: center;
 	margin-top: 350px;
 }
-<<<<<<< HEAD
 
-=======
->>>>>>> 3781ec86835c3d6d1523e5c4822e1c27f81c2f6a
 div.womenintheworkplace {
 	margin: 20px;
 	border: 5px;
 
 }
 
-
-
 img.womenintheworkplace{
 	height: 400px;
 }
-<<<<<<< HEAD
 #pineapples{
 	margin-top: 80px;
 
@@ -137,9 +130,8 @@ img.womenintheworkplace{
 }
 #apples{
 	font-size: 20px
-=======
-
-#dontpara {
+}
+#dontpara{
 	font-size: 20px;
 }
 #seconddontpara {
@@ -156,6 +148,4 @@ img.womenintheworkplace{
 	max-height:auto;
     display: block;
     margin: 0 auto;
-}
->>>>>>> 3781ec86835c3d6d1523e5c4822e1c27f81c2f6a
 }
