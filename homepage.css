@@ -22,7 +22,7 @@ h3{
 	color: black;
 	text-align: center;
 }
-img{
+.scrollerimage{
 	position: relative;
     width:  400px;
     height: 200px;
@@ -30,6 +30,7 @@ img{
     margin-right: auto;
 
 }
+
 #tfnewsearch{
 	float:right;
 	padding:20px;
@@ -97,7 +98,11 @@ div.img:hover {
 }
 
 div.img img {
+<<<<<<< HEAD
     max-width: 100%;
+=======
+  	width: 100%;
+>>>>>>> 3781ec86835c3d6d1523e5c4822e1c27f81c2f6a
     height: auto;
 }
 
@@ -105,10 +110,12 @@ div.img img {
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
 	font-size: 24px;
 	text-align: center;
-	margin-top: auto;
-	margin-bottom: 135px;
+	margin-top: 350px;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3781ec86835c3d6d1523e5c4822e1c27f81c2f6a
 div.womenintheworkplace {
 	margin: 20px;
 	border: 5px;
@@ -120,6 +127,7 @@ div.womenintheworkplace {
 img.womenintheworkplace{
 	height: 400px;
 }
+<<<<<<< HEAD
 #pineapples{
 	margin-top: 80px;
 
@@ -129,4 +137,25 @@ img.womenintheworkplace{
 }
 #apples{
 	font-size: 20px
+=======
+
+#dontpara {
+	font-size: 20px;
+}
+#seconddontpara {
+	font-size: 20px;
+}
+#sheasked
+{
+	max-width: 100%;
+	max-height: auto;
+}
+
+#statisticrape{
+	max-width: 100%
+	max-height:auto;
+    display: block;
+    margin: 0 auto;
+}
+>>>>>>> 3781ec86835c3d6d1523e5c4822e1c27f81c2f6a
 }
