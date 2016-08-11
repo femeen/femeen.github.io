@@ -25,7 +25,7 @@ h3{
 img{
 	position: relative;
     width:  400px;
-    max-height: 200px;
+    height: 200px;
     margin-left: auto;
     margin-right: auto;
 
@@ -98,7 +98,7 @@ div.img:hover {
 
 div.img img {
     max-width: 100%;
-    max-height: auto;
+    height: auto;
 }
 
 #donthead {
@@ -108,11 +108,25 @@ div.img img {
 	margin-top: auto;
 	margin-bottom: 135px;
 }
-<<<<<<< HEAD
+
 div.womenintheworkplace {
 	margin: 20px;
 	border: 5px;
-}
-=======
 
->>>>>>> cd27628982cbd60cfac01de564dc995b260b60df
+}
+
+
+
+img.womenintheworkplace{
+	height: 400px;
+}
+#pineapples{
+	margin-top: 80px;
+
+}
+#GWC{
+	font-size: 20px;
+}
+#apples{
+	font-size: 20px
+}
