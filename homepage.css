@@ -115,8 +115,6 @@ div.womenintheworkplace {
 
 }
 
-
-
 img.womenintheworkplace{
 	height: 400px;
 }
@@ -130,8 +128,7 @@ img.womenintheworkplace{
 #apples{
 	font-size: 20px
 }
-
-#dontpara {
+#dontpara{
 	font-size: 20px;
 }
 #seconddontpara {
@@ -149,7 +146,6 @@ img.womenintheworkplace{
     display: block;
     margin: 0 auto;
 }
-
 #womenedu{
 	max-width: 420px;
 	max-height: 700px;
