@@ -153,11 +153,15 @@ img.womenintheworkplace{
 }
 
 .icecream{
-	float:right;
-	margin-top: -80;
+	float: center;
+	margin-top:;
+}
+textarea {
+    width: 800px;
+    height: 150px;
 }
 
-#examples{
+.examples{
 	font-size: 20px;
 }
 
