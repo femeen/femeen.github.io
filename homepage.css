@@ -146,6 +146,24 @@ img.womenintheworkplace{
     display: block;
     margin: 0 auto;
 }
+.banana{
+	width: 500px;
+	height: 400px;
+	margin-top: 80px;
+}
+
+.icecream{
+	float:right;
+	margin-top: -80;
+}
+
+#examples{
+	font-size: 20px;
+}
+
+#pinecones{
+	font-size: 20px;
+}
 #womenedu{
 	max-width: 420px;
 	max-height: 700px;
@@ -200,5 +218,4 @@ img.womenintheworkplace{
 }
 #teenopinion{
 	font-size: 20px;
-
 }
