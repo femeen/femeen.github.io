@@ -103,7 +103,7 @@ div.img img {
     height: auto;
 }
 
-#donthead {
+#donthead{ 
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
 	font-size: 24px;
 	text-align: center;
@@ -162,5 +162,60 @@ img.womenintheworkplace{
 }
 
 #pinecones{
+	font-size: 20px;
+}
+#womenedu{
+	max-width: 420px;
+	max-height: 700px;
+	margin: 25px;
+	border: 3px solid black;
+}
+#girledu{
+	max-width: 420px;
+	max-height: 650px;
+	margin: 25px;
+	border: 3px solid black;
+}
+#quoteedu{
+	max-width: 420px;
+	max-height: 300px;
+	margin: 25px;
+	border: 3px solid black;
+}
+#womenedu:hover{
+	max-width: 420px;
+	max-height: 700px;
+	margin: 25px;
+	border: 3px solid white;
+}
+#girledu:hover{
+	max-width: 420px;
+	max-height: 650px;
+	margin: 25px;
+	border: 3px solid white;
+}
+#quoteedu:hover{
+	max-width: 420px;
+	max-height: 300px;
+	margin: 25px;
+	border: 3px solid white;
+}
+#educationforall{
+	font-size: 24px;
+	text-align: center;
+}
+#educationpara{
+	font-size: 20px;
+}
+#womeneducationneed{
+	font-size: 24px;
+	text-align: center;
+	margin-top: 50px;
+}
+#creditmari{
+	font-size: 22px;
+	text-align: center;
+}
+#teenopinion{
 	font-size: 20px;
 }
