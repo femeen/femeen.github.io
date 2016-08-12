@@ -153,15 +153,11 @@ img.womenintheworkplace{
 }
 
 .icecream{
-	float: center;
-	margin-top:;
-}
-textarea {
-    width: 800px;
-    height: 150px;
+	float:right;
+	margin-top: -80;
 }
 
-.examples{
+#examples{
 	font-size: 20px;
 }
 
@@ -222,4 +218,8 @@ textarea {
 }
 #teenopinion{
 	font-size: 20px;
+}
+#commentwhy{
+	display: block;
+	text-align: center;
 }
