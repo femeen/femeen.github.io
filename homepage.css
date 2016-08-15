@@ -1,5 +1,5 @@
 body{
-	background-color: 	#7e6ff3;
+	background-color: #DBAFFF;
 }
 h1{
 	font: 400 130px/0.8 "Great Vibes", Helvetica, sans-serif;
@@ -85,8 +85,8 @@ h3{
 }
 
 div.img {
-	margin-left: 75px;
-    margin-right: 75px;
+	margin-left: 65px;
+    margin-right: 65px;
     margin-bottom: 75px;
     border: 3px solid black;
     float: left;
@@ -146,6 +146,19 @@ img.womenintheworkplace{
     display: block;
     margin: 0 auto;
 }
+.banana{
+	width: 500px;
+	height: 400px;
+	margin-top: 80px;
+}
+
+.examples{
+	font-size: 20px;
+}
+
+#pinecones{
+	font-size: 20px;
+}
 #womenedu{
 	max-width: 420px;
 	max-height: 700px;
@@ -200,5 +213,8 @@ img.womenintheworkplace{
 }
 #teenopinion{
 	font-size: 20px;
-
+}
+#commentwhy{
+	display: block;
+	text-align: center;
 }
